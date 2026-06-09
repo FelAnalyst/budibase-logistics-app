@@ -26,8 +26,8 @@ Sales analytics (customizable periods), removal orders, product/SKU management, 
 
 ## Screenshots
 ![Title](https://github.com/FelAnalyst/budibase-logistics-app/blob/main/screenshots/1.jpg)
-![3PL Operations — edit form]([screenshots/3pl-edit.png](https://github.com/FelAnalyst/budibase-logistics-app/blob/main/screenshots/3pl-edit.jpg))
-![Shipments Change Log]([screenshots/change-log.png](https://github.com/FelAnalyst/budibase-logistics-app/blob/main/screenshots/change log.jpg)
+![3PL Operations — edit form](https://github.com/FelAnalyst/budibase-logistics-app/blob/main/screenshots/3pl-edit.jpg)
+![Shipments Change Log](https://github.com/FelAnalyst/budibase-logistics-app/blob/main/screenshots/change_log.jpg)
 
 ## Notes
 
